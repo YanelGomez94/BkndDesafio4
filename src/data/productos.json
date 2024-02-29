@@ -7,7 +7,7 @@
 		"code": "pro1",
 		"stock": 25,
 		"thumbnails": [
-			"C:\\Users\\Administrator\\Documents\\Cursos\\CoderHouse\\Desafios\\PrimeraPreEntrega\\src\\public\\images\\gafas.jpg"
+			""
 		],
 		"id": 1
 	},
@@ -20,7 +20,7 @@
 		"status": "true",
 		"category": "gafas",
 		"thumbnails": [
-			"C:\\Users\\Administrator\\Documents\\Cursos\\CoderHouse\\Desafios\\PrimeraPreEntrega\\src\\public\\images\\gafas.jpg"
+			""
 		],
 		"id": 2
 	},
@@ -32,7 +32,7 @@
 		"code": "pro3",
 		"stock": 25,
 		"thumbnails": [
-			"C:\\Users\\Administrator\\Documents\\Cursos\\CoderHouse\\Desafios\\PrimeraPreEntrega\\src\\public\\images\\gafas.jpg"
+			""
 		],
 		"id": 3
 	},
@@ -44,7 +44,7 @@
 		"code": "pro4",
 		"stock": 25,
 		"thumbnails": [
-			"C:\\Users\\Administrator\\Documents\\Cursos\\CoderHouse\\Desafios\\PrimeraPreEntrega\\src\\public\\images\\gafas.jpg"
+			""
 		],
 		"id": 4
 	},
@@ -56,7 +56,7 @@
 		"code": "pro5",
 		"stock": 25,
 		"thumbnails": [
-			"C:\\Users\\Administrator\\Documents\\Cursos\\CoderHouse\\Desafios\\PrimeraPreEntrega\\src\\public\\images\\gafas.jpg"
+			""
 		],
 		"id": 5
 	},
@@ -68,7 +68,7 @@
 		"code": "pro6",
 		"stock": 25,
 		"thumbnails": [
-			"C:\\Users\\Administrator\\Documents\\Cursos\\CoderHouse\\Desafios\\PrimeraPreEntrega\\src\\public\\images\\gafas.jpg"
+			""
 		],
 		"id": 6
 	},
@@ -80,7 +80,7 @@
 		"code": "pro7",
 		"stock": 25,
 		"thumbnails": [
-			"C:\\Users\\Administrator\\Documents\\Cursos\\CoderHouse\\Desafios\\PrimeraPreEntrega\\src\\public\\images\\gafas.jpg"
+			""
 		],
 		"id": 7
 	},
@@ -92,7 +92,7 @@
 		"code": "pro8",
 		"stock": 25,
 		"thumbnails": [
-			"C:\\Users\\Administrator\\Documents\\Cursos\\CoderHouse\\Desafios\\PrimeraPreEntrega\\src\\public\\images\\gafas.jpg"
+			""
 		],
 		"id": 8
 	},
@@ -104,7 +104,7 @@
 		"code": "pro9",
 		"stock": 25,
 		"thumbnails": [
-			"C:\\Users\\Administrator\\Documents\\Cursos\\CoderHouse\\Desafios\\PrimeraPreEntrega\\src\\public\\images\\gafas.jpg"
+			""
 		],
 		"id": 9
 	},
@@ -116,7 +116,7 @@
 		"code": "pro10",
 		"stock": 25,
 		"thumbnails": [
-			"C:\\Users\\Administrator\\Documents\\Cursos\\CoderHouse\\Desafios\\PrimeraPreEntrega\\src\\public\\images\\gafas.jpg"
+			""
 		],
 		"id": 10
 	}
