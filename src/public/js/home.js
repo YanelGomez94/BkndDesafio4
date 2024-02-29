@@ -1,10 +1,19 @@
+console.log('Cliente conectado')
 const socket = io()
 
-//Primera parte: enviar caracter por caracter.
-const input = document.getElementById('textbox');
-const log = document.getElementById('log')
-input.addEventListener('keyup',evt=>{
-    let {key} = evt;
-    evt.target.value='';
-    console.log("🚀 ~ key:", key)
-})
+socket.on('productosActualizados', function(productos) {
+  const productsContainer = document.getElementById('products-container');
+    productsContainer.innerHTML = '';
+
+    productos.forEach(function(product) {
+      const div = document.createElement('div');
+      div.innerHTML = `
+        <p>${product.id}</p>
+        <span>${product.title}:</span>
+        <span>${product.description}</span>
+        <p>Precio: $${product.price}</p>
+        <p>Stock: ${product.stock}</p>
+      `;
+      productsContainer.appendChild(div);
+  });
+});
